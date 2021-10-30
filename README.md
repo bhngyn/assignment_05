@@ -1,2 +1,2 @@
 # oakland_311
-This repo contains my assignment for the Oakland 311 data assignment
+This repo contains my code for the Oakland 311 data assignment
